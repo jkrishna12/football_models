@@ -5,4 +5,4 @@ These models were created by following David Sumpter's Soccermatics online cours
 # Technical Skills
 - Used Pandas to manipulate Wyscout datasets to create relevant features for the statisitcal models
 - Leveraged XGBoostClassifier and Linear Regression model to create an action based expected threat model
-- Developed an expected goals model using logistic regression and the angle and distance of a shot as features
+- Developed an expected goals model using logistic regression taking the angle and distance of a shot as features
